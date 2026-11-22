@@ -1,0 +1,6 @@
+{
+  "name": "Customer Sentiment Intelligence Dashboard",
+  "description": "Analyze raw customer reviews with AI sentiment trend tracking, word clouds of complaints and praises, executive summaries, and multi-turn Gemini reasoning assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
